@@ -1,0 +1,19 @@
+lista_medsa-201202
+
+--
+
+Sequences         25183
+Characters     26826442
+Minlen              102
+Maxlen            12860
+Length at Q1        447
+Length at Q2        811
+Length at Q3       1425
+N50                1504
+B1000             70.7%
+B2000             32.7%
+
+Longest 12860, 11802, 11680, 11247, 10285, 10156, 10038, 9730, 9641, 9513
+
+--
+

@@ -1,0 +1,4 @@
+# filename_in_this_repository: description
+  medsa.mixed.tcp1.vRdj.Abyss.fna.gz: Contigs from the assembly, min. 102 bp. Possibly in- cludes UTRs. Sequences may contain IUPAC ambiguity codes repre- senting ambiguous bases, http://www.bioinformatics.org/sms/iu- pac.html
+  medsa.mixed.tcp1.vRdj.id_map.gz: Contains mappings from the original contig names into the LIS nomenclature.
+  medsa.mixed.tcp1.vRdj.stats.txt: sequence statistics for contigs.fa

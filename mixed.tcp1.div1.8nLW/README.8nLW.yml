@@ -1,0 +1,54 @@
+identifier: 8nLW
+
+provenance: The original repository was http://medsa.comparative-legumes.org/, which has been replaced by this repository at http://legumeinfo.org/data/Medicago_sativa/
+
+source: http://legumeinfo.org/data/Medicago_sativa/
+
+subject: genotype variants called with respect to a transcriptome assembly
+
+related_to: transcriptome assembly Medicago_sativa/mixed.tcp1/medsa.mixed.tcp1.vRdj/\*
+
+scientific_name: Medicago sativa
+
+taxid: 3879
+
+bioproject: none
+
+scientific_name_abbrev: medsa
+
+genotype: 
+description: Variants (SNPs and indels) called on 27 Medicago sativa accessions, called with respect to a consensus assembly based on those accessions. The accessions included "27 alfalfa genotypes, including elite breeding genotypes, parents of mapping populations, and unimproved wild genotypes (Li, Acharya et al., 2012; DOI: 10.1186/1471-2164-13-568)
+
+dataset_doi: none
+
+genbank_accession: none
+
+original_file_creation_date: 2012-02
+
+local_file_creation_date: 2016-12
+
+publication_doi: 10.1186/1471-2164-13-568
+
+dataset_release_date: 2016-12
+
+publication_title: Prevalence of single nucleotide polymorphism among 27 diverse alfalfa genotypes as assessed by transcriptome sequencing
+
+contributors: see publication authors
+
+data_curators: Jacqueline Campbell, Steven Cannon
+
+public_access_level: public
+
+license: open
+
+keywords: alfalfa, Medicago sativa, genotype, diversity, structure
+
+citations: Li, X., Acharya, A., Farmer, A. D., Crow, J. A., Bharti, A. K., Kramer, R. S., Wei, Y., Han, Y., Gou, J., May, G. D., Monteros, M. J., Brummer, E. C. (2012) Prevalence of single nucleotide polymorphism among 27 diverse alfalfa genotypes as assessed by transcriptome sequencing. BMC Genomics 201213:568.
+
+file_transformation: ally, as command-line executable statements that can re-play the transformation(s). -->
+
+  - medsa.mixed.tcp1.div1.8nLW.txt.gz                       none
+  - medsa.mixed.tcp1.div1.8nLW.ADT_scored_Mt_mapped.txt.gz  none
+
+changes: 
+  - 2018-04-19 Added MANIFEST files
